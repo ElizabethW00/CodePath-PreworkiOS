@@ -20,6 +20,24 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
+
+1. Google Calendar
+- I can color code my events
+- Gives overview of different structures (ex. Day, Week, Month)
+2. Youtube
+- Able to read comments while watching something
+- When I turn my phone, it automatically goes to wide mode
+3. Weather app
+- Variety of widgets for information on temperature
+- Can see the different weather patterns throughout the day
+4. IMessage
+- Play games with people via text
+- Can pin favorite people to the top
+
+I would like to build a minimalistic journaling app that provides a simple and intuitive writing platform. Each entry will automatically start with the date, allowing users to freely write their thoughts while also rating their day. To help users track their journaling habits, entries will be displayed in a Google Calendar-like view, giving a clear visual representation of when they have journaled. The goal is to create a seamless and organized way for users to reflect on their thoughts over time.
+
+
 ## Notes
 
 Getting used to XCode Interface was a bit challenging, but with research, I was able to figure out where certain features were located.
